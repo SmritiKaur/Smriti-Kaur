@@ -1,0 +1,33 @@
+.login-form {
+  margin-left: 580px;
+  width: 340px;
+  height: 200px;
+  background-color: aliceblue;
+}
+
+.otp-form {
+  margin-left: 580px;
+  width: 340px;
+  height: 200px;
+  background-color: aqua;
+}
+
+.heading {
+  text-align: center;
+}
+
+.mail-style {
+  margin-left: 60px;
+  width: 250px;
+}
+
+.otp-style {
+  margin-left: 60px;
+  width: 250px;
+}
+
+.btn {
+  margin-left: 125px;
+  background-color: blue;
+  color: aliceblue;
+}
