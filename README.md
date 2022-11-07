@@ -8,6 +8,7 @@ SETUP INSTRUCTION:
 
 Software to be installed - xampp server.
 After installing xampp server in your system follow the following steps:-
+
 In windows OS-
 1. Goto your C drive or whereever you installed xampp -> Goto htdocs -> create a new folder in htdocs -> grab all the files in this repository and drop them in that newly created folder.
 2. Now open any browser and type "localhost/name_of_the_newly_created_folder/index.html" in the address bar and then press "Enter".  
